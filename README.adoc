@@ -13,7 +13,7 @@ Kibana is also installed.
 === How to run
 .To get this project working, perform the minimum steps:
 ----
- $ git clone --recursive git://github.com/foo/vagrant-ansible-elasticsearch-2016-1.git
+ $ git clone --recursive git://github.com/yencarnacion/vagrant-ansible-elasticsearch-2016-1.git
  $ cd vagrant-ansible-elasticsearch-2016-1
  $ vagrant up
  $ ansible-playbook elastic.yml
